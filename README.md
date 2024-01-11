@@ -37,7 +37,7 @@ cloud-based services with the freedom of self-hosted open-source solutions.
 It breaks vendor lock-in by separating identity and storage providers,
 allowing easy migration between cloud providers or self-hosting.
 
-![Architecture Diagram](architecture.png)
+Read more about the [architecture](ARCHITECTURE.md).
 
 Which (the services)
 --------------------
@@ -111,35 +111,8 @@ But hey, we're not just looking for architects – if you're passionate about
 what we're building and want to contribute in any way, big or small, we'd love
 to hear from you! Don't hesitate to reach out!
 
-System Components
------------------
+Frequently asked questions
+--------------------------
 
-* Server Components
-	* [Cloudillo OS](server/cloudillo-os.md)
-	* [Providers](server/providers.md)
-		* [Metadata Provider](server/metadata-provider.md)
-		* [CRDT Provider](server/CRDT-provider.md)
-		* [noSQL Provider](server/noSQL-provider.md)
-		* [SQL Provider](server/SQL-provider.md)
-* Client Components
-	* [Cloudillo Shell](client/cloudillo-shell.md)
-	* [Cloudillo Application Library](client/cloudillo-application-library.md)
-
-Protocols
----------
-
-* Building Blocks
-	* Tokens
-		* Access Tokens
-		* Action Tokens
-* Client – Server API
-	* [Auth API](server/auth-api.md)
-	* [Identity API](server/identity-api.md)
-	* [Metadata API](server/metadata-api.md)
-	* Storage APIs
-		* [Immutable Storage API](server/immutable-storage-api.md)
-		* [CRDT API](server/CRDT-api.md)
-		* [noSQL API](server/noSQL-api.md)
-* Server – Server API
-	* [Action API](server/action-api.md)
-* Client – Client API
+If you have additional questions, please refer to our [FAQ](FAQ.md). In case
+you don't find the answer you are looking for, don't hesitate to reach out.
