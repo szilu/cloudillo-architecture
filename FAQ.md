@@ -2,14 +2,14 @@ Frequently Asked Questions
 ==========================
 
 <details>
-  <summary>**What is Cloudillo, and what sets it apart from other collaboration platforms?**</summary>
+  <summary><b>What is Cloudillo, and what sets it apart from other collaboration platforms?</b></summary>
   Cloudillo is an open-source Operating System designed for collaboration. It
   provides standardized interfaces for developers to create applications
   involving creation, sharing, and collaboration.
 </details>
 
 <details>
-  <summary>**Can I use Cloudillo for personal projects, or is it primarily designed for businesses?**</summary>
+  <summary><b>Can I use Cloudillo for personal projects, or is it primarily designed for businesses?</b></summary>
   Absolutely! Our primary focus is on personal use, such as social networking,
   content creation, and collaboration. It's also suitable for businesses, and
   we're planning features and services tailored for them. You can even develop
@@ -17,7 +17,7 @@ Frequently Asked Questions
 </details>
 
 <details>
-  <summary>**What types of applications can be built on the Cloudillo platform?**</summary>
+  <summary><b>What types of applications can be built on the Cloudillo platform?</b></summary>
   Cloudillo is ideal for content creation, sharing, and collaboration
   applications. This includes for example document editors, social network
   applications, and knowledge management tools. However, the platform is
@@ -26,7 +26,7 @@ Frequently Asked Questions
 </details>
 
 <details>
-  <summary>**How does Cloudillo handle user authentication and authorization globally?**</summary>
+  <summary><b>How does Cloudillo handle user authentication and authorization globally?</b></summary>
   Cloudillo utilizes an Identity System based on a Domain Name System (DNS),
   separating identity management from the hosting provider. This enables easy
   migration between providers or self-hosting.
@@ -48,21 +48,21 @@ Frequently Asked Questions
 </details>
 
 <details>
-  <summary>**Is it possible to migrate data easily between different instances of Cloudillo or to self-hosting?**</summary>
+  <summary><b>Is it possible to migrate data easily between different instances of Cloudillo or to self-hosting?</b></summary>
   Absolutely! Data backup and synchronization are core features. After
   migrating data to another node, you can update your record at the Identity
   Provider or DNS, facilitating a smooth transition to the new instance.
 </details>
 
 <details>
-  <summary>**What are the system requirements for self-hosting Cloudillo?**</summary>
+  <summary><b>What are the system requirements for self-hosting Cloudillo?</b></summary>
   Cloudillo is an Overlay Operating System, which means it runs on top of an other host OS.
   Our primary deployment method is a docker container, making it compatible
   with various operating systems, including modern NAS devices.
 </details>
 
 <details>
-  <summary>**How can I contribute to the development of Cloudillo, and what skills are needed to get involved?**</summary>
+  <summary><b>How can I contribute to the development of Cloudillo, and what skills are needed to get involved?</b></summary>
   In the early development stages, we welcome contributors experienced in
   building the platform's base architecture. As the base APIs stabilize,
   there's an opportunity for Application Developers to contribute.
