@@ -64,7 +64,7 @@ control over your information while enjoying the benefits of a worldwide reach.
 ### Revolutionary Global Authentication and Authorization
 Cloudillo implements a groundbreaking method for Global Authentication,
 Authorization, and Verification. This innovative approach allows you to
-securely share your data with anyone, even if they don't need to register on
+securely share your data with anyone, users don't need to register on
 your instance – mirroring the convenience of Cloud-based platforms.
 
 ### Seamless Interconnectivity
