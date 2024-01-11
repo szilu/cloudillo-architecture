@@ -115,4 +115,4 @@ Frequently asked questions
 --------------------------
 
 If you have additional questions, please refer to our [FAQ](FAQ.md). In case
-you don't find the answer you are looking for, don't hesitate to reach out.
+you don't find the answer you are looking for, feel free to ask.
