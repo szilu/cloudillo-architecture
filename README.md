@@ -37,6 +37,8 @@ cloud-based services with the freedom of self-hosted open-source solutions.
 It breaks vendor lock-in by separating identity and storage providers,
 allowing easy migration between cloud providers or self-hosting.
 
+![Architecture Diagram](architecture.png)
+
 Which (the services)
 --------------------
 
@@ -49,10 +51,30 @@ Applications based on the Cloudillo platform can eventually replace:
 * **Communication Services:** Messenger, Skype, Google Meet, etc.
 * ...
 
-Architecture
-------------
+Discover the Cloudillo Difference in Open Source Collaboration
+--------------------------------------------------------------
 
-![Architecture Diagram](architecture.png)
+Ever wondered what sets Cloudillo apart from other open-source collaboration platforms?
+
+### Global Accessibility, Local Control
+Cloudillo takes a unique approach by storing all your data locally while making
+it globally accessible through its unparalleled API. This ensures you have full
+control over your information while enjoying the benefits of a worldwide reach.
+
+### Revolutionary Global Authentication and Authorization
+Cloudillo implements a groundbreaking method for Global Authentication,
+Authorization, and Verification. This innovative approach allows you to
+securely share your data with anyone, even if they don't need to register on
+your instance – mirroring the convenience of Cloud-based platforms.
+
+### Seamless Interconnectivity
+Thanks to this fresh perspective, Cloudillo-based applications can establish
+connections that might seem impossible on other platforms. This newfound
+flexibility opens doors to innovative and seamless collaborations between
+applications.
+
+Ready to experience collaboration on a whole new level? Explore Cloudillo and
+witness the difference.
 
 Roadmap
 -------
