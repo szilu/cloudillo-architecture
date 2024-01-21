@@ -59,7 +59,7 @@ Ever wondered what sets Cloudillo apart from other open-source collaboration pla
 ### Global Accessibility, Local Control
 Cloudillo takes a unique approach by storing all your data locally while making
 it globally accessible through its unparalleled API. This ensures you have full
-control over your information while enjoying the benefits of a worldwide reach.
+control over your data while enjoying the benefits of a worldwide reach.
 
 ### Revolutionary Global Authentication and Authorization
 Cloudillo implements a groundbreaking method for Global Authentication,

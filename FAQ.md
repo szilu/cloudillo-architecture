@@ -27,7 +27,7 @@ Frequently Asked Questions
 
 <details>
   <summary><b>How does Cloudillo handle user authentication and authorization globally?</b></summary>
-  Cloudillo utilizes an Identity System based on a Domain Name System (DNS),
+  Cloudillo utilizes an Identity System based on the Domain Name System (DNS),
   separating identity management from the hosting provider. This enables easy
   migration between providers or self-hosting.
 
