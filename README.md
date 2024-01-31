@@ -1,5 +1,5 @@
-Cloudillo – Collaborating Infrastructure Owned by it's Users
-============================================================
+Cloudillo – Collaborating Infrastructure Owned by its Users
+===========================================================
 
 Why (the problem)
 -----------------
