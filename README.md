@@ -12,7 +12,7 @@ Online collaboration has two main approaches:
 What (the solution)
 -------------------
 
-Introducing Cloudillo, the Distributed, Self-Hosted, Open-Source Collaboration Operating System.
+Introducing Cloudillo, the Distributed, Self-Hosted, Open-Source Collaboration Application Platform.
 
 Unleash your creativity, collaborate effortlessly, and share without obstacles.
 
@@ -80,7 +80,7 @@ Roadmap
 -------
 
 * Phase 1 – Proof of Concept
-	* Cloudillo OS
+	* Cloudillo AP
 	* Cloudillo Shell
 	* Example Apps
 		* Gallerillo – Simple Photo Gallery
@@ -89,7 +89,7 @@ Roadmap
 		* Formillo – Simple Form Builder
 * Phase 2 – API and Protocol Design Finalization
 * Phase 3 – MVP Implementation
-	* Cloudillo OS
+	* Cloudillo AP
 	* Cloudillo Shell
 	* Cloudillo Application Library
 * Phase 4

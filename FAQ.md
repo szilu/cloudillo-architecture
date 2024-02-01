@@ -3,7 +3,7 @@ Frequently Asked Questions
 
 <details>
   <summary><b>What is Cloudillo, and what sets it apart from other collaboration platforms?</b></summary>
-  Cloudillo is an open-source Operating System designed for collaboration. It
+  Cloudillo is an open-source Application Platform designed for collaboration. It
   provides standardized interfaces for developers to create applications
   involving creation, sharing, and collaboration.
 </details>
@@ -56,9 +56,9 @@ Frequently Asked Questions
 
 <details>
   <summary><b>What are the system requirements for self-hosting Cloudillo?</b></summary>
-  Cloudillo is an Overlay Operating System, which means it runs on top of an other host OS.
-  Our primary deployment method is a docker container, making it compatible
-  with various operating systems, including modern NAS devices.
+  Cloudillo is an Application Platform, it runs on top of a host OS.
+  Our primary deployment method is a Docker container, making it compatible
+  with various Operating Systems, including modern NAS devices.
 </details>
 
 <details>
